@@ -1,8 +1,5 @@
 from turtle import *
 shape("turtle")
-forward(100)
-done()
-shape("turtle")
 col = ["orange","limegreen","gold","plum","tomato"]
 for i in range(5):
     color(col[i])
